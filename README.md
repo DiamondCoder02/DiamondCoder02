@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiamondPRO02
-- 👀 I’m interested in ... (no one but i'm single) 
+- 👀 I’m interested in ... (no one, I have a boyfriend. :3) 
 - 🌱 I’m currently learning ... (in school) 
 - 💞️ I’m looking to collaborate on ...  (your projects) 
 - 📫 How to reach me ... (find me first) 

@@ -13,8 +13,7 @@ I'm lazy to edit this so here's me:
 - likes to cook and play vr.
 - loves being a lewd femboy and play games.
 - hates school.
-- knows Javascript/Node JS, HTML.
-- learns Python.
+- knows Javascript/Node JS, HTML, Python.
 - Java hard.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondPRO02&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)

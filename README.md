@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiamondPRO02
+- 👋 Hi, I’m @Diamond
 - 👀 I’m interested in ... (no one, but I'm single. :3) 
 - 🌱 I’m currently learning ... (in school) 
 - 💞️ I’m looking to collaborate on ...  (your projects, if I have time) 

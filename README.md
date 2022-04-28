@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm lazy to edit this so here's me:
 - likes to cook and play vr.
-- loves being a lewd femboy and play games.
+- loves being a femboy and play games.
 - hates school.
 - learns Javascript/Node JS, HTML, Python.
 - Java hard.

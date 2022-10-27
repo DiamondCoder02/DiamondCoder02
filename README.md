@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diamond
-- 👀 I’m interested in ... (no one, but I'm single. :3) 
+- 👀 I’m interested in ... (no one, I'm taken. :3) 
 - 🌱 I’m currently learning ... (in school) 
 - 💞️ I’m looking to collaborate on ...  (your projects, if I have time) 
 - 📫 How to reach me ... (find me first) 
@@ -18,4 +18,4 @@ I'm lazy to edit this so here's me:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondPRO02&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondPRO02&layout=compact&langs_count=4&hide=css,cmake,c,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)

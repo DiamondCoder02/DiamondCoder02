@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 I'm lazy to edit this so here's me:
 - likes to cook and play vr.
 - loves being a ~lewd~ femboy and play games.
-- hates school.
-- learns Javascript/Node JS, HTML, Python, c++.
+- hates school and university.
+- learns Javascript/Node JS, HTML, Python, c++, Java, Assempbly, PHP.
 - OOP hard.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondPRO02&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)

@@ -14,6 +14,7 @@ I'm lazy to edit this so here's me:
 - loves being a ~lewd~ femboy and play games.
 - hates school and university.
 - learns Javascript/Node JS, HTML, Python, c++, Java, Assempbly, PHP.
+- also sql, System engineering.
 - OOP hard.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondPRO02&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)

@@ -17,8 +17,8 @@ I'm lazy to edit this so here's me:
 - also sql, System engineering.
 - OOP hard.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondPRO02&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondCoder02&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondPRO02&layout=compact&hide=assembly&theme=aura&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondCoder02&layout=compact&hide=assembly&theme=aura&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 *(I changed name recently so if something broke with Github, sorry...)*

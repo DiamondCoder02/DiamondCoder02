@@ -13,9 +13,10 @@ I'm lazy to edit this so here's me:
 - likes to cook and play vr.
 - loves being a ~lewd~ femboy and play games.
 - hates school and university.
-- learns Javascript/Node JS, HTML, Python, c++, Java, Assempbly, PHP.
-- also sql, System engineering.
-- OOP hard.
+- learns Javascript/Node JS,typeScript, HTML, Python, c++, Java, Assembly, PHP, C#
+- also sql, System engineering and other stuff...
+- OOP ~hard.~ not that hard, just takes time.
+- I hate Hungary..., please, let me leave T.T
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondCoder02&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
